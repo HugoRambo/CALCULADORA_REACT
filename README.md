@@ -1,3 +1,8 @@
+Disponivel em:https://calculadora-react-wine-iota.vercel.app/
+
+![image](https://user-images.githubusercontent.com/92727479/169389988-cecb5701-efd0-491e-bc71-508abeecd82f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
