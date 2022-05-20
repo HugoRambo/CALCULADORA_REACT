@@ -36,3 +36,38 @@ button:hover{
     margin-right: 1em;
     font-size: 3.5em;
 }
+
+@media (max-width:340px){
+    button{
+        width: 3em;
+        height: 2em;
+        font-size: 1.5em;
+        border: none;
+        border-radius: 1em;
+        margin:0.1em;
+     
+    }
+    #btnZero {
+        width: 6em;
+        border-radius: 3em;
+    }
+    
+    .result{
+    color: white;
+    display: flex;
+    justify-content: right;
+    margin-right: 1em;
+    font-size: 2em;
+    }
+    .wrapper{
+        background-color: black;
+        border-radius: 1em;
+        padding: 1em ;
+    }
+    button:hover{
+        cursor: pointer;
+    }
+
+}
+
+
